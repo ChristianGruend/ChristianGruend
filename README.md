@@ -11,18 +11,13 @@ I'm a **Cloud Engineer & DevOps enthusiast** with a strong foundation in AWS, Do
 
 ## 🛠️ Tech Stack  
 - **Cloud & DevOps**: AWS (Cloud Practitioner), Terraform, Docker, Kubernetes  
-- **Automation & Scripting**: Bash, Python, GitHub Actions  
-- **AI & Security**: Exploring AI Security, CompTIA Security+ (in progress)  
-- **Agile & Collaboration**: Scrum, Git, CI/CD  
+- **Automation & Scripting**: Bash, Python, GitHub, , Git, CI/CD. 
+- **AI & Security**: Exploring AI Security
 
 ## 📂 Current Projects  
-🚀 **Jarvis117** – A locally running **LLM-powered assistant** in Docker to streamline workflows (emails, file management, web research, etc.)  
-🔐 **AI Security Automation** – Integrating AI-driven security checks into DevOps pipelines with Terraform and IaC  
-
-## 💡 Looking for  
-- Collaboration on **AI & Security in DevOps**  
-- Exchange on **Cloud Security & Automation**  
-- Tips & resources for **CompTIA Security+**  
+🚀 **Jarvis117** – A locally running **vLLM-powered assistant** in Docker to streamline workflows (emails, file management, web research, .)  
+🔐 **AI Security Automation** – Integrating AI-driven security checks into DevOps pipelines with Terraform.  
+ 
 
 ## 📫 Get in Touch  
 - **GitHub**: [ChristianGruend](https://github.com/ChristianGruend)  
