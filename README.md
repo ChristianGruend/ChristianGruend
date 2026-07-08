@@ -22,4 +22,4 @@ I'm a **Cloud Engineer & DevOps enthusiast** with a strong foundation in AWS, Do
 - **Hugging Face**: [Gustlson](https://huggingface.co/Gustlson)
 
 
-⚡ **Wissen ist Macht.** Zum ersten Mal in der Geschichte der Menschheit hat jeder Mensch die Möglichkeit, genauso mächtig zu sein wie jeder andere.
+⚡ **Wissen ist Macht.** Jahrtausendelang war beides ein Privileg — gehütet von Tempeln, Universitäten und Konzernen. Zum ersten Mal in der Geschichte der Menschheit steht das Wissen der Welt jedem offen. Macht bemisst sich nicht mehr an Herkunft oder Kapital, sondern an Neugier.
