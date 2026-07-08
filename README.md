@@ -19,7 +19,7 @@ I'm a **Cloud Engineer & DevOps enthusiast** with a strong foundation in AWS, Do
 
 ## 📫 Get in Touch  
 - **GitHub**: [ChristianGruend](https://github.com/ChristianGruend)  
-- **LinkedIn**: [Christian Gründer](https://www.linkedin.com/in/christian-gründer-9a4907275/?trk=public-profile-join-page)
+- **Hugging Face**: [Gustlson](https://huggingface.co/Gustlson)
 
 
 ⚡ **Fun Fact**: Ich versuche, meine eigene „Jarvis“-Version zu bauen – nur ohne Iron Man-Anzug… noch 😄
