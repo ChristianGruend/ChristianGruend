@@ -8,9 +8,9 @@ I'm a **Cloud Engineer & DevOps enthusiast** with a strong foundation in AWS, Do
 
 ## 🛠️ Tech Stack  
 - **Cloud & DevOps**: AWS (Cloud Practitioner), Terraform, Docker, Kubernetes, CI/CD  
-- **Automation & Scripting**: Bash, Python, Linux, WSL, GitHub, Git. 
-- **AI & Security**: Exploring AI Security
-- **LinkedIn**: [Christian Gründer](https://www.linkedin.com/in/dein-linkedin-name)
+- **Automation & Scripting**: Bash, Python, Linux (Arch/Hyprland, Zorin, Manjaro), Git & GitHub, REST APIs  
+- **AI & LLMs**: Claude / Claude Code, AI Agents, MCP, Ollama, vLLM, Hugging Face, Voice AI  
+- **Security**: Learning SOC, SIEM, Zero Trust & DevSecOps — integrating security into AI workflows  
 
 ## 📂 Current Projects  
 🚀 **Jarvis117** – A locally running **vLLM-powered assistant** in Docker to streamline workflows (emails, file management, web research, .)  
