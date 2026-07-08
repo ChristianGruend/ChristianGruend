@@ -22,4 +22,4 @@ I'm a **Cloud Engineer & DevOps enthusiast** with a strong foundation in AWS, Do
 - **Hugging Face**: [Gustlson](https://huggingface.co/Gustlson)
 
 
-⚡ **Fun Fact**: Ich baue KI nicht für die Tony Starks dieser Welt — eher nach dem Robin-Hood-Prinzip: Hightech aus den Konzerntürmen holen und dahin bringen, wo sie wirklich gebraucht wird. 🏹
+⚡ **Wissen ist Macht.** Zum ersten Mal in der Geschichte der Menschheit hat jeder Mensch die Möglichkeit, genauso mächtig zu sein wie jeder andere.
