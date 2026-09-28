@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Chris / Gustl</title>
+  <desc id="desc">Applied AI, Linux and Automation. A terminal-inspired banner in Catppuccin Mocha colors.</desc>
+  <rect width="1200" height="300" rx="20" fill="#1e1e2e"/>
+  <rect x="1" y="1" width="1198" height="298" rx="19" fill="none" stroke="#45475a"/>
+  <path d="M32 57H1168" stroke="#313244"/>
+  <circle cx="38" cy="29" r="6" fill="#f38ba8"/>
+  <circle cx="60" cy="29" r="6" fill="#f9e2af"/>
+  <circle cx="82" cy="29" r="6" fill="#a6e3a1"/>
+  <text x="112" y="35" fill="#a6adc8" font-family="monospace" font-size="16">~/workshop</text>
+  <text x="54" y="105" fill="#a6e3a1" font-family="monospace" font-size="18">$ whoami</text>
+  <text x="50" y="170" fill="#cdd6f4" font-family="sans-serif" font-size="58" font-weight="700">Chris <tspan fill="#cba6f7">/ Gustl</tspan></text>
+  <text x="54" y="214" fill="#bac2de" font-family="sans-serif" font-size="24">Applied AI · Linux · Automation</text>
+  <rect x="54" y="246" width="60" height="4" rx="2" fill="#cba6f7"/>
+  <rect x="122" y="246" width="32" height="4" rx="2" fill="#89b4fa"/>
+  <rect x="162" y="246" width="20" height="4" rx="2" fill="#a6e3a1"/>
+  <g fill="none" stroke="#45475a" stroke-width="2">
+    <path d="M876 135V170H904V191M928 113H994M1059 143V192M956 213H1000"/>
+    <rect x="824" y="91" width="104" height="44" rx="10" fill="#181825"/>
+    <rect x="994" y="99" width="130" height="44" rx="10" fill="#181825"/>
+    <rect x="852" y="191" width="104" height="44" rx="10" fill="#181825"/>
+    <rect x="1000" y="192" width="124" height="44" rx="10" fill="#181825"/>
+  </g>
+  <g font-family="monospace" font-size="18" text-anchor="middle">
+    <text x="876" y="119" fill="#cba6f7">models</text>
+    <text x="1059" y="127" fill="#89b4fa">tools</text>
+    <text x="904" y="219" fill="#a6e3a1">linux</text>
+    <text x="1062" y="220" fill="#f9e2af">agents</text>
+  </g>
+</svg>
