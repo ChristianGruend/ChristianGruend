@@ -23,7 +23,7 @@ Ich betreibe einen komplett **self-hosted AI-Stack** (lokale LLMs auf AMD-GPUs, 
 
 | Bereich | Tools |
 |---|---|
-| **AI & LLMs** | Claude / Claude Code · AI Agents · MCP · Ollama · Hugging Face · Voice AI |
+| **AI & LLMs** | Claude / Claude Code · Codex · AI Agents · MCP · Ollama · Hugging Face · Voice AI |
 | **Automation** | Python · Bash · Git/GitHub · REST APIs · Cron-Pipelines |
 | **Infra & DevOps** | Docker · Linux (Arch, Zorin, Manjaro) · AWS · Terraform · CI/CD |
 | **Security** | DevSecOps · SOC/SIEM · Zero Trust — Security in AI-Workflows integrieren |
