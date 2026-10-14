@@ -36,11 +36,11 @@ Mein Ziel: **praktische AI und Automatisierung für kleine Unternehmen, Handwerk
 | **[AI Knowledge Ecosystem](https://github.com/ChristianGruend/ai-knowledge-ecosystem)** | Nicht jeder AI dieselbe Geschichte neu erzählen: Markdown-Memory und eine Python-Pipeline, die Chat-Exports in Wissensbausteine und System-Prompts umwandelt. Öffentliche Vorlage mit Platzhaltern für die persönlichen Inhalte. |
 | **[AX206 Neon Dashboard](https://github.com/ChristianGruend/ax206-neon-dashboard)** | Ein USB-Bilderrahmen wird zum Systemmonitor: CPU, GPU, RAM und Dienste auf einem kleinen Display. Python sammelt die Metriken und erzeugt das Layout für lcd4linux. |
 | **[AMD ROCm KI-Umgebung](https://github.com/ChristianGruend/amd-rocm-ki-umgebung)** | Mit vorhandener AMD-Hardware lokale AI ausprobieren: Docker-Compose-Setup mit Ollama, PyTorch und Jupyter Lab für ROCm. |
-| **[Odysseus · mein Fork](https://github.com/ChristianGruend/odysseus)** | Mein selbst gehosteter AI-Workspace auf Basis des [Upstream-Projekts](https://github.com/pewdiepie-archdaemon/odysseus). Ich ergänze mein Setup um Sprachdienste, Bildgenerierung und MCP-Anbindungen. |
+| **[Odysseus · mein Fork](https://github.com/ChristianGruend/odysseus)** | Selbst gehosteter AI-Workspace auf Basis des [Upstream-Projekts](https://github.com/pewdiepie-archdaemon/odysseus), ergänzt um Sprachdienste, Bildgenerierung und MCP-Anbindungen. Inzwischen pausiert — als Haupt-Agent läuft jetzt [Hermes Agent](https://github.com/NousResearch/hermes-agent). |
 
 ## Woran ich arbeite
 
-- **AI im eigenen Setup:** Lokale Modelle und externe Modell-APIs in einem selbst gehosteten Workspace zusammenbringen.
+- **AI im eigenen Setup:** Ein selbst gehosteter Agent (Hermes) mit Cloud-Modell und lokalem Fallback über Ollama — läuft rund um die Uhr auf dem eigenen Rechner.
 - **Tools verbinden:** Agents über MCP und APIs mit nutzbaren Funktionen versorgen; Sprache und Automatisierung in den Alltag einbauen.
 - **Kontext behalten:** Wissen und Arbeitskontext zwischen AI-Tools und Rechnern wiederverwenden.
 - **Security vertiefen:** DevSecOps, SOC/SIEM und Zero Trust als Lernfelder mit meinen praktischen Projekten verbinden.
@@ -65,4 +65,4 @@ Du arbeitest an lokaler AI, einem Linux-Setup oder einer Automatisierung für de
 
 ---
 
-**Wissen ist Macht.** Ich möchte Technik verstehen, Wissen teilen und mehr Menschen ermöglichen, ihre eigenen Werkzeuge zu bauen.
+⚡ **Wissen ist Macht.** Jahrtausendelang war beides ein Privileg — gehütet von Tempeln, Universitäten und Konzernen. Zum ersten Mal in der Geschichte der Menschheit steht das Wissen der Welt jedem offen. Macht bemisst sich nicht mehr an Herkunft oder Kapital, sondern an Neugier.
