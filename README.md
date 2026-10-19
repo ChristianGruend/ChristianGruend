@@ -1,55 +1,70 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Chris / Gustl — Applied AI · Linux · Automation" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Chris / Gustl — AI, Linux und Automatisierung. Bauen. Verstehen. Weitergeben." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Ich baue mit AI, Linux und Automatisierung Werkzeuge, die mir im Alltag Arbeit abnehmen.</strong>
+  <strong>Weniger Handarbeit. Mehr verstehen, wie es funktioniert.</strong><br />
+  Ich verbinde AI, Linux und Automatisierung zu Werkzeugen für meinen Alltag.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChristianGruend?tab=repositories">Projekte</a> ·
+  <a href="#aus-meiner-werkstatt">Projekte entdecken</a> ·
+  <a href="#woran-ich-arbeite">Aktueller Fokus</a> ·
   <a href="https://huggingface.co/Gustlson">Hugging Face</a> ·
-  <a href="#woran-ich-arbeite">Aktueller Fokus</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&amp;logo=linux&amp;logoColor=cba6f7" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&amp;logo=python&amp;logoColor=f9e2af" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&amp;logo=docker&amp;logoColor=89b4fa" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ollama-1e1e2e?style=flat-square&amp;logo=ollama&amp;logoColor=a6e3a1" alt="Ollama" />
-  <img src="https://img.shields.io/badge/AMD_ROCm-1e1e2e?style=flat-square&amp;logo=amd&amp;logoColor=f38ba8" alt="AMD ROCm" />
-  <img src="https://img.shields.io/badge/MCP-1e1e2e?style=flat-square" alt="Model Context Protocol" />
+  <a href="#austausch">Austausch</a>
 </p>
 
 ## Moin, ich bin Chris 👋
 
-Auch als **Gustl** unterwegs. Mein Hintergrund liegt in Cloud und DevOps; heute beschäftige ich mich vor allem mit **angewandter AI**: lokale Modelle auf AMD-GPUs, Agents, Voice AI und die Dienste, die das Ganze verbinden.
+Auch als **Gustl** unterwegs. Ich komme aus Cloud und DevOps und lerne durch Bauen und Debuggen. Mich interessiert, wie aus einem Modell, ein paar APIs und einem Linux-Rechner etwas wird, das im Alltag hilft.
 
-Ich lerne durch Bauen und Debuggen. Vieles hier entsteht aus einem konkreten Problem im eigenen Setup: wiederkehrende Handgriffe automatisieren, Kontext zwischen AI-Tools mitnehmen oder Systemdaten auf einem alten USB-Bilderrahmen sichtbar machen.
-
-Mein Ziel: **praktische AI und Automatisierung für kleine Unternehmen, Handwerk und NGOs** zugänglich machen. Eine entsprechende Beratung baue ich auf.
+Hier findest du meine Projekte rund um **lokale AI, Agents und Automatisierung** – mit den Lösungen und Fallstricken, die beim Bauen entstehen. Mein Ziel ist, praktische AI auch für kleine Unternehmen, Handwerk und NGOs zugänglich zu machen.
 
 ## Aus meiner Werkstatt
 
-| Projekt | Ausgangspunkt & Umsetzung |
-| :--- | :--- |
-| **[AI Knowledge Ecosystem](https://github.com/ChristianGruend/ai-knowledge-ecosystem)** | Nicht jeder AI dieselbe Geschichte neu erzählen: Markdown-Memory und eine Python-Pipeline, die Chat-Exports in Wissensbausteine und System-Prompts umwandelt. Öffentliche Vorlage mit Platzhaltern für die persönlichen Inhalte. |
-| **[AX206 Neon Dashboard](https://github.com/ChristianGruend/ax206-neon-dashboard)** | Ein USB-Bilderrahmen wird zum Systemmonitor: CPU, GPU, RAM und Dienste auf einem kleinen Display. Python sammelt die Metriken und erzeugt das Layout für lcd4linux. |
-| **[AMD ROCm KI-Umgebung](https://github.com/ChristianGruend/amd-rocm-ki-umgebung)** | Mit vorhandener AMD-Hardware lokale AI ausprobieren: Docker-Compose-Setup mit Ollama, PyTorch und Jupyter Lab für ROCm. |
-| **[Odysseus · mein Fork](https://github.com/ChristianGruend/odysseus)** | Selbst gehosteter AI-Workspace auf Basis des [Upstream-Projekts](https://github.com/pewdiepie-archdaemon/odysseus), ergänzt um Sprachdienste, Bildgenerierung und MCP-Anbindungen. Inzwischen pausiert — als Haupt-Agent läuft jetzt [Hermes Agent](https://github.com/NousResearch/hermes-agent). |
+### [AI Knowledge Ecosystem](https://github.com/ChristianGruend/ai-knowledge-ecosystem)
+
+**Neuer Chat, wieder alles erklären?** Ich halte meinen Arbeitskontext in Markdown fest und verwende ihn über mehrere AI-Tools hinweg. Eine Python-Pipeline verarbeitet zusätzlich Chat-Exporte zu Wissensbausteinen und System-Prompts.
+
+Die öffentliche Version ist eine **Vorlage ohne persönliche Daten**. Das Memory nutze ich täglich; die Pipeline arbeitet mit Schlüsselwörtern und erkennt noch keine Widersprüche.
+
+`Python` · `Markdown` · `AI Memory` · [Aufbau & Einstieg →](https://github.com/ChristianGruend/ai-knowledge-ecosystem#the-problem-i-had)
+
+### [AX206 Neon Dashboard](https://github.com/ChristianGruend/ax206-neon-dashboard)
+
+**Ein USB-Bilderrahmen als Systemmonitor.** CPU-Threads, GPU, RAM und Dienste werden auf einem kleinen Display sichtbar. Ein Python-Collector sammelt die Werte, ein Generator baut das Layout für lcd4linux. Eine Vorschau funktioniert auch ohne das Gerät.
+
+`Python` · `Linux` · `systemd` · `lcd4linux` · [Dashboard ansehen →](https://github.com/ChristianGruend/ax206-neon-dashboard#ax206-neon-dashboard)
+
+### [AMD ROCm KI-Umgebung](https://github.com/ChristianGruend/amd-rocm-ki-umgebung)
+
+**Lokale AI auf vorhandener AMD-Hardware ausprobieren.** Mein Docker-Compose-Setup verbindet Ollama, PyTorch und Jupyter Lab mit ROCm. Dazu gibt es Hinweise zur GPU-Auswahl und zur Fehlersuche.
+
+`Docker Compose` · `Ollama` · `AMD ROCm` · [Setup ansehen →](https://github.com/ChristianGruend/amd-rocm-ki-umgebung)
+
+<details>
+<summary><strong>Außerdem: mein Odysseus-Fork</strong></summary>
+
+Mit [Odysseus](https://github.com/ChristianGruend/odysseus) habe ich einen selbst gehosteten AI-Workspace um Sprachdienste, Bildgenerierung und MCP-Anbindungen ergänzt. Er basiert auf dem [Upstream-Projekt](https://github.com/pewdiepie-archdaemon/odysseus).
+
+Das Setup ist inzwischen pausiert. Als Haupt-Agent nutze ich jetzt [Hermes Agent](https://github.com/NousResearch/hermes-agent).
+
+</details>
+
+[Alle öffentlichen Repositories →](https://github.com/ChristianGruend?tab=repositories)
 
 ## Woran ich arbeite
 
-- **AI im eigenen Setup:** Ein selbst gehosteter Agent (Hermes) mit Cloud-Modell und lokalem Fallback über Ollama — läuft rund um die Uhr auf dem eigenen Rechner.
-- **Tools verbinden:** Agents über MCP und APIs mit nutzbaren Funktionen versorgen; Sprache und Automatisierung in den Alltag einbauen.
-- **Kontext behalten:** Wissen und Arbeitskontext zwischen AI-Tools und Rechnern wiederverwenden.
+- **Agents im Alltag:** Hermes mit Cloud-Modell und lokalem Fallback über Ollama im eigenen Setup einsetzen.
+- **Tools verbinden:** Agents über MCP und APIs mit Funktionen versorgen; Sprache und Automatisierung in den Alltag einbauen.
+- **Kontext behalten:** Wissen zwischen AI-Tools und Rechnern wiederverwenden und das Memory überschaubar halten.
 - **Security vertiefen:** DevSecOps, SOC/SIEM und Zero Trust als Lernfelder mit meinen praktischen Projekten verbinden.
 
 ## Werkzeuge & Hintergrund
 
 | Bereich | Womit ich arbeite |
 | :--- | :--- |
-| **AI & Modelle** | Ollama · Hugging Face · AMD ROCm · MCP · Speech-to-Text / Text-to-Speech |
+| **AI & Modelle** | Hermes Agent · Ollama · Hugging Face · AMD ROCm · MCP · Voice AI |
 | **AI beim Entwickeln** | Claude Code · Codex · Kimi Code |
 | **Code & Automation** | Python · Bash · REST APIs · Git/GitHub · systemd · Cron |
 | **Systeme & Betrieb** | Linux · Docker Compose · Zorin OS · Arch / Hyprland · Manjaro |
@@ -59,7 +74,7 @@ Linux auf dem Desktop, Catppuccin Mocha in den Configs — und meist ein Projekt
 
 ## Austausch
 
-Du arbeitest an lokaler AI, einem Linux-Setup oder einer Automatisierung für den Alltag? Für Fragen und Ideen zu meinen Projekten sind die jeweiligen Repository-Issues ein guter Einstieg.
+Du baust etwas mit lokaler AI, Linux oder Automatisierung? **Mich interessiert, was bei dir funktioniert – und wo es hakt.** Fragen, Erfahrungen und Verbesserungsvorschläge zu meinen Projekten passen in die jeweiligen Repository-Issues.
 
 **[GitHub · ChristianGruend](https://github.com/ChristianGruend)** · **[Hugging Face · Gustlson](https://huggingface.co/Gustlson)**
 
