@@ -30,6 +30,12 @@ Die öffentliche Version ist eine **Vorlage ohne persönliche Daten**. Das Memor
 
 `Python` · `Markdown` · `AI Memory` · [Aufbau & Einstieg →](https://github.com/ChristianGruend/ai-knowledge-ecosystem#the-problem-i-had)
 
+### Hermes Agent – mein Setup ([Upstream-Projekt](https://github.com/NousResearch/hermes-agent))
+
+**Mein Haupt-Agent für den Alltag.** Ich verbinde Hermes unter Linux mit Cloud-Modellen und einem lokalen Ollama-Fallback. Über MCP erhält er Zugriff auf eigene Werkzeuge; Gateway, Dashboard und systemd machen daraus ein alltagstaugliches Setup.
+
+`Hermes Agent` · `Ollama` · `MCP` · `Linux` · `systemd` · [Hermes Agent ansehen →](https://github.com/NousResearch/hermes-agent)
+
 ### [AX206 Neon Dashboard](https://github.com/ChristianGruend/ax206-neon-dashboard)
 
 **Ein USB-Bilderrahmen als Systemmonitor.** CPU-Threads, GPU, RAM und Dienste werden auf einem kleinen Display sichtbar. Ein Python-Collector sammelt die Werte, ein Generator baut das Layout für lcd4linux. Eine Vorschau funktioniert auch ohne das Gerät.
