@@ -16,7 +16,7 @@
 
 ## Moin, ich bin Chris 👋
 
-Auch als **Gustl** unterwegs. Ich komme aus Cloud und DevOps und lerne durch Bauen und Debuggen. Mich interessiert, wie aus einem Modell, ein paar APIs und einem Linux-Rechner etwas wird, das im Alltag hilft.
+Auch als **Gustl** unterwegs. Ich begann als Mechaniker und wurde später Werkstattleiter. Über eine Cloud-Weiterbildung kam ich zu DevOps; meine Terminal-Affinität führte mich weiter zu AI. Mit Odysseus baute ich meinen ersten eigenen AI-Workspace, heute nutze ich Hermes.
 
 Hier findest du meine Projekte rund um **lokale AI, Agents und Automatisierung** – mit den Lösungen und Fallstricken, die beim Bauen entstehen. Mein Ziel ist, praktische AI auch für kleine Unternehmen, Handwerk und NGOs zugänglich zu machen.
 
