@@ -16,7 +16,7 @@
 
 ## Moin, ich bin Chris 👋
 
-Auch als **Gustl** unterwegs. Ich war Mechaniker und später Werkstattleiter, bevor mich eine Cloud-Weiterbildung zu DevOps brachte. Am Terminal arbeite ich schon immer gern – dort komme ich direkter ans Ziel. Mein Einstieg in AI war Odysseus; heute nutze ich Hermes.
+Auch als **Gustl** unterwegs. Ich war Mechaniker und später Werkstattleiter, bevor mich eine Cloud-Weiterbildung zu DevOps brachte. Am Terminal arbeite ich schon immer gern – dort komme ich direkter ans Ziel. Meine ersten AI-Versuche machte ich mit lokalen Modellen in LM Studio. Danach kam Odysseus; heute nutze ich Hermes.
 
 Hier findest du meine Projekte rund um **lokale AI, Agents und Automatisierung** – mit den Lösungen und Fallstricken, die beim Bauen entstehen. Mein Ziel ist, praktische AI auch für kleine Unternehmen, Handwerk und NGOs zugänglich zu machen.
 
