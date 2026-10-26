@@ -26,7 +26,7 @@ Hier findest du meine Projekte rund um **lokale AI, Agents und Automatisierung**
 
 **Neuer Chat, wieder alles erklären?** Ich halte meinen Arbeitskontext in Markdown fest und verwende ihn über mehrere AI-Tools hinweg. Eine Python-Pipeline verarbeitet zusätzlich Chat-Exporte zu Wissensbausteinen und System-Prompts.
 
-Die öffentliche Version ist eine **Vorlage ohne persönliche Daten**. Das Memory nutze ich täglich; die Pipeline arbeitet mit Schlüsselwörtern und erkennt noch keine Widersprüche.
+Die öffentliche Version ist eine **Vorlage ohne persönliche Daten**. Das Memory nutze ich täglich: Ein systemd-Timer gleicht es dreimal am Tag mit GitHub ab und sichert dabei auch die Auto-Memories meiner Agents. Die Pipeline arbeitet mit Schlüsselwörtern und erkennt noch keine Widersprüche.
 
 `Python` · `Markdown` · `AI Memory` · [Aufbau & Einstieg →](https://github.com/ChristianGruend/ai-knowledge-ecosystem#the-problem-i-had)
 
