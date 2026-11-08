@@ -57,6 +57,16 @@ Das Setup ist inzwischen pausiert. Als Haupt-Agent nutze ich jetzt [Hermes Agent
 
 </details>
 
+### Mein Desktop: CachyOS + KDE Plasma
+
+**Fünf Bildschirme, ein Nord-Glas-Look.** Auf dem Büro-Rechner läuft CachyOS mit KDE Plasma unter Wayland. Fenster sind halbtransparent mit leichtem Blur. Auf dem 4K-Monitor oben läuft projectM, der Nachfolger von Winamps MilkDrop, als Live-Visualizer hinter allen Fenstern. Ein generierter Nord-Nebel zieht sich als ein Hintergrundbild über alle Monitore. Dazu ein Systemmonitor-Cockpit, eine kompakte Login-Anzeige in kitty und ein Würfel über vier Desktops. Alles ist per Skript reproduzierbar.
+
+<p align="center">
+  <img src="assets/cachyos-desktop.jpg" alt="CachyOS-Desktop über fünf Monitore: oben projectM-Visualizer, darunter halbtransparente Fenster mit Haruna, Dolphin, kitty-Terminals und Systemmonitor im Nord-Look" width="100%" />
+</p>
+
+`CachyOS` · `KDE Plasma 6` · `KWin` · `Kvantum` · `projectM` · `kitty` · `Python` · `Bash`
+
 [Alle öffentlichen Repositories →](https://github.com/ChristianGruend?tab=repositories)
 
 ## Woran ich arbeite
@@ -73,10 +83,10 @@ Das Setup ist inzwischen pausiert. Als Haupt-Agent nutze ich jetzt [Hermes Agent
 | **AI & Modelle** | Hermes Agent · Ollama · Hugging Face · AMD ROCm · MCP · Voice AI |
 | **AI beim Entwickeln** | Claude Code · Codex · Kimi Code |
 | **Code & Automation** | Python · Bash · REST APIs · Git/GitHub · systemd · Cron |
-| **Systeme & Betrieb** | Linux · Docker Compose · Zorin OS · Arch / Hyprland · Manjaro |
+| **Systeme & Betrieb** | Linux · Docker Compose · CachyOS / KDE Plasma · Zorin OS · Arch / Hyprland · Manjaro |
 | **Cloud-/DevOps-Hintergrund** | AWS · Terraform · Kubernetes · CI/CD |
 
-Linux auf dem Desktop, Catppuccin Mocha in den Configs — und meist ein Projekt, an dem es noch etwas zu verstehen gibt.
+Linux auf dem Desktop, Catppuccin Mocha in den Configs, Nord auf dem CachyOS-Rechner — und meist ein Projekt, an dem es noch etwas zu verstehen gibt.
 
 ## Austausch
 
